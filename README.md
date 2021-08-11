@@ -1,6 +1,6 @@
-# AppUsuarios
+# noticias
 
-una aplicacion hecho en angular para buscar noticias en el mundo en vivo
+una aplicación hecho en angular para buscar noticias en el mundo en vivo
 
 # Demo
 
@@ -14,4 +14,3 @@ una aplicacion hecho en angular para buscar noticias en el mundo en vivo
 
 ## Deploy
 [noticias](https://noticias-jeespoping.netlify.app/)
-
